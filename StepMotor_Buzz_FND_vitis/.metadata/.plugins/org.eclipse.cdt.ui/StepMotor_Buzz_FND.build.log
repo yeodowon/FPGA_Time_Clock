@@ -1,0 +1,21 @@
+10:26:20 **** Incremental Build of configuration Debug for project StepMotor_Buzz_FND ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -ID:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: StepMotor_Buzz_FND.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "StepMotor_Buzz_FND.elf"  ./src/Switch/Switch.o  ./src/Button/Button.o  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: StepMotor_Buzz_FND.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size StepMotor_Buzz_FND.elf  |tee "StepMotor_Buzz_FND.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   8304	    348	   3348	  12000	   2ee0	StepMotor_Buzz_FND.elf
+'Finished building: StepMotor_Buzz_FND.elf.size'
+' '
+
+10:26:21 Build Finished (took 1s.221ms)
+

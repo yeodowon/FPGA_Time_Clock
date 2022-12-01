@@ -1,0 +1,60 @@
+src/helloworld.o src/helloworld.o: ../src/helloworld.c ../src/platform.h \
+ ../src/platform_config.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_types.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/bspconfig.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xgpio.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_assert.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xstatus.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xgpio_l.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_io.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/mb_interface.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/sleep.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xintc.h \
+ D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xintc_l.h \
+ ../src/../src/Button/Button.h
+
+../src/platform.h:
+
+../src/platform_config.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_types.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/bspconfig.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xgpio.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_assert.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xstatus.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xgpio_l.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_io.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/mb_interface.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/sleep.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xintc.h:
+
+D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/export/Design_StepMotor_Buzz_FND_wrapper/sw/Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include/xintc_l.h:
+
+../src/../src/Button/Button.h:

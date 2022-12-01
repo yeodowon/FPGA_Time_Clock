@@ -1,0 +1,22 @@
+/*
+ * Switch.c
+ *
+ *  Created on: 2022. 11. 4.
+ *      Author: kccistc
+ */
+
+#include "Switch.h"
+
+#define ModeSW		0
+#define OnOffSW		1
+
+#define CHANNEL_1	1
+
+XGpio	GPIO_SW;
+
+typedef struct _switch
+{
+	int pinNum;
+}Switch;
+
+Button ModeSwitch, OnOffSwitch;

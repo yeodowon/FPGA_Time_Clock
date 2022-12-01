@@ -1,0 +1,1009 @@
+TRACE::2022-11-04.08:51:38::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:38::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:38::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:41::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:41::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:41::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:41::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-11-04.08:51:41::SCWPlatform::Opened new HwDB with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:41::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-11-04.08:51:41::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper"
+		}]
+}
+TRACE::2022-11-04.08:51:41::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-11-04.08:51:41::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2022-11-04.08:51:41::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper"
+		}]
+}
+TRACE::2022-11-04.08:51:41::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper"
+		}]
+}
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:42::SCWDomain::checking for install qemu data   : 
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:42::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:42::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-11-04.08:51:42::SCWMssOS::No sw design opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:42::SCWMssOS::mss does not exists at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:42::SCWMssOS::Creating sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:42::SCWMssOS::Adding the swdes entry, created swdb D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:42::SCWMssOS::updating the scw layer changes to swdes at   D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:42::SCWMssOS::Writing mss at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:42::SCWMssOS::Completed writing the mss file at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-11-04.08:51:42::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-11-04.08:51:42::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-11-04.08:51:42::SCWMssOS::Completed writing the mss file at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-11-04.08:51:42::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Saving the mss changes D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Running validate of swdbs.
+KEYINFO::2022-11-04.08:51:43::SCWMssOS::Could not open the swdb for D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+KEYINFO::2022-11-04.08:51:43::SCWMssOS::Could not open the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss is not found
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Cleared the swdb table entry
+TRACE::2022-11-04.08:51:43::SCWMssOS::Adding the swdes entry, mss present, able to open swdb D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2022-11-04.08:51:43::SCWMssOS::Writing the mss file completed D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Commit changes completed.
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"cee54f712a132d397098fd9cc7bfa2a5",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-11-04.08:51:43::SCWPlatform::Started generating the artifacts platform Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:51:43::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-11-04.08:51:43::SCWPlatform::Started generating the artifacts for system configuration Design_StepMotor_Buzz_FND_wrapper
+LOG::2022-11-04.08:51:43::SCWSystem::Checking the domain domain_microblaze_0
+LOG::2022-11-04.08:51:43::SCWSystem::Not a boot domain 
+LOG::2022-11-04.08:51:43::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2022-11-04.08:51:43::SCWDomain::Generating domain artifcats
+TRACE::2022-11-04.08:51:43::SCWMssOS::Generating standalone artifcats
+TRACE::2022-11-04.08:51:43::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Completed writing the mss file at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-11-04.08:51:43::SCWMssOS::Mss edits present, copying mssfile into export location D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-11-04.08:51:43::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-11-04.08:51:43::SCWDomain::Skipping the build for domain :  domain_microblaze_0
+TRACE::2022-11-04.08:51:43::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-11-04.08:51:43::SCWMssOS::Copying to export directory.
+TRACE::2022-11-04.08:51:43::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-11-04.08:51:43::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-11-04.08:51:43::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2022-11-04.08:51:43::SCWSystem::Completed Processing the sysconfig Design_StepMotor_Buzz_FND_wrapper
+LOG::2022-11-04.08:51:43::SCWPlatform::Completed generating the artifacts for system configuration Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:51:43::SCWPlatform::Started preparing the platform 
+TRACE::2022-11-04.08:51:43::SCWSystem::Writing the bif file for system config Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:51:43::SCWSystem::dir created 
+TRACE::2022-11-04.08:51:43::SCWSystem::Writing the bif 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Started writing the spfm file 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Completed generating the platform
+TRACE::2022-11-04.08:51:43::SCWMssOS::Saving the mss changes D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Commit changes completed.
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"cee54f712a132d397098fd9cc7bfa2a5",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-11-04.08:51:43::SCWPlatform::updated the xpfm file.
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Saving the mss changes D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Commit changes completed.
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"cee54f712a132d397098fd9cc7bfa2a5",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Saving the mss changes D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Commit changes completed.
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"cee54f712a132d397098fd9cc7bfa2a5",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-11-04.08:51:43::SCWPlatform::Started generating the artifacts platform Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:51:43::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-11-04.08:51:43::SCWPlatform::Started generating the artifacts for system configuration Design_StepMotor_Buzz_FND_wrapper
+LOG::2022-11-04.08:51:43::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2022-11-04.08:51:43::SCWDomain::Generating domain artifcats
+TRACE::2022-11-04.08:51:43::SCWMssOS::Generating standalone artifcats
+TRACE::2022-11-04.08:51:43::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Completed writing the mss file at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-11-04.08:51:43::SCWMssOS::Mss edits present, copying mssfile into export location D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-11-04.08:51:43::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-11-04.08:51:43::SCWDomain::Building the domain as part of full build :  domain_microblaze_0
+TRACE::2022-11-04.08:51:43::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-11-04.08:51:43::SCWMssOS::Copying to export directory.
+TRACE::2022-11-04.08:51:43::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-11-04.08:51:43::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-11-04.08:51:43::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2022-11-04.08:51:43::SCWSystem::Completed Processing the sysconfig Design_StepMotor_Buzz_FND_wrapper
+LOG::2022-11-04.08:51:43::SCWPlatform::Completed generating the artifacts for system configuration Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:51:43::SCWPlatform::Started preparing the platform 
+TRACE::2022-11-04.08:51:43::SCWSystem::Writing the bif file for system config Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:51:43::SCWSystem::dir created 
+TRACE::2022-11-04.08:51:43::SCWSystem::Writing the bif 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Started writing the spfm file 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-11-04.08:51:43::SCWPlatform::Completed generating the platform
+TRACE::2022-11-04.08:51:43::SCWMssOS::Saving the mss changes D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-11-04.08:51:43::SCWMssOS::Commit changes completed.
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:43::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:43::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:43::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"cee54f712a132d397098fd9cc7bfa2a5",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-11-04.08:51:43::SCWPlatform::updated the xpfm file.
+LOG::2022-11-04.08:51:57::SCWPlatform::Started generating the artifacts platform Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:51:57::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-11-04.08:51:57::SCWPlatform::Started generating the artifacts for system configuration Design_StepMotor_Buzz_FND_wrapper
+LOG::2022-11-04.08:51:57::SCWSystem::Checking the domain domain_microblaze_0
+LOG::2022-11-04.08:51:57::SCWSystem::Not a boot domain 
+LOG::2022-11-04.08:51:57::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2022-11-04.08:51:57::SCWDomain::Generating domain artifcats
+TRACE::2022-11-04.08:51:57::SCWMssOS::Generating standalone artifcats
+TRACE::2022-11-04.08:51:57::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-11-04.08:51:57::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:57::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:57::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:57::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:51:57::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:51:57::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:51:57::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:57::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:51:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:51:57::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:57::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:51:57::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:57::SCWMssOS::Completed writing the mss file at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-11-04.08:51:57::SCWMssOS::Mss edits present, copying mssfile into export location D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:51:57::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-11-04.08:51:57::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-11-04.08:51:57::SCWDomain::Building the domain as part of full build :  domain_microblaze_0
+TRACE::2022-11-04.08:51:57::SCWMssOS::doing bsp build ... 
+TRACE::2022-11-04.08:51:57::SCWMssOS::System Command Ran  D: & cd  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp & make 
+TRACE::2022-11-04.08:51:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2022-11-04.08:51:57::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-11-04.08:51:57::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-11-04.08:51:57::SCWMssOS::-Wextra"
+
+TRACE::2022-11-04.08:51:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2022-11-04.08:51:57::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-11-04.08:51:57::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-11-04.08:51:57::SCWMssOS::-Wextra"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-11-04.08:51:58::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-11-04.08:51:58::SCWMssOS::-Wextra"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_11/src"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2022-11-04.08:51:58::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2022-11-04.08:51:58::SCWMssOS:: -Wextra"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2022-11-04.08:51:58::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2022-11-04.08:51:58::SCWMssOS::-Wall -Wextra"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2022-11-04.08:51:58::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2022-11-04.08:51:58::SCWMssOS::all -Wextra"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-11-04.08:51:58::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-11-04.08:51:58::SCWMssOS::xtra"
+
+TRACE::2022-11-04.08:51:58::SCWMssOS::"Compiling bram"
+
+TRACE::2022-11-04.08:52:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2022-11-04.08:52:00::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-11-04.08:52:00::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-11-04.08:52:00::SCWMssOS::xtra"
+
+TRACE::2022-11-04.08:52:00::SCWMssOS::"Compiling cpu"
+
+TRACE::2022-11-04.08:52:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2022-11-04.08:52:00::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-11-04.08:52:00::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-11-04.08:52:00::SCWMssOS::xtra"
+
+TRACE::2022-11-04.08:52:00::SCWMssOS::"Compiling gpio"
+
+TRACE::2022-11-04.08:52:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_11/src"
+
+TRACE::2022-11-04.08:52:01::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2022-11-04.08:52:01::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2022-11-04.08:52:01::SCWMssOS::extra"
+
+TRACE::2022-11-04.08:52:01::SCWMssOS::"Compiling intc"
+
+TRACE::2022-11-04.08:52:02::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-11-04.08:52:02::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2022-11-04.08:52:02::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2022-11-04.08:52:02::SCWMssOS::ll -Wextra"
+
+TRACE::2022-11-04.08:52:02::SCWMssOS::"Compiling standalone";
+
+TRACE::2022-11-04.08:52:07::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2022-11-04.08:52:07::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2022-11-04.08:52:07::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2022-11-04.08:52:07::SCWMssOS:: -Wextra"
+
+TRACE::2022-11-04.08:52:07::SCWMssOS::"Compiling uartlite"
+
+TRACE::2022-11-04.08:52:08::SCWMssOS::'Finished building libraries'
+
+TRACE::2022-11-04.08:52:08::SCWMssOS::Copying to export directory.
+TRACE::2022-11-04.08:52:08::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-11-04.08:52:08::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-11-04.08:52:08::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2022-11-04.08:52:08::SCWSystem::Completed Processing the sysconfig Design_StepMotor_Buzz_FND_wrapper
+LOG::2022-11-04.08:52:08::SCWPlatform::Completed generating the artifacts for system configuration Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:52:08::SCWPlatform::Started preparing the platform 
+TRACE::2022-11-04.08:52:08::SCWSystem::Writing the bif file for system config Design_StepMotor_Buzz_FND_wrapper
+TRACE::2022-11-04.08:52:08::SCWSystem::dir created 
+TRACE::2022-11-04.08:52:08::SCWSystem::Writing the bif 
+TRACE::2022-11-04.08:52:08::SCWPlatform::Started writing the spfm file 
+TRACE::2022-11-04.08:52:08::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-11-04.08:52:08::SCWPlatform::Completed generating the platform
+TRACE::2022-11-04.08:52:08::SCWMssOS::Saving the mss changes D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-11-04.08:52:08::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-11-04.08:52:08::SCWMssOS::Commit changes completed.
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:52:08::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:52:08::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:52:08::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:52:08::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:52:08::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:52:08::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWWriter::formatted JSON is {
+	"platformName":	"Design_StepMotor_Buzz_FND_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+	"platHandOff":	"D:/project/fpga/StepMotor_Driver/MicroBlaze_StepMotor_Interrupt/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Design_StepMotor_Buzz_FND_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Design_StepMotor_Buzz_FND_wrapper",
+	"systems":	[{
+			"systemName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"systemDesc":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Design_StepMotor_Buzz_FND_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"cee54f712a132d397098fd9cc7bfa2a5",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-11-04.08:52:08::SCWPlatform::updated the xpfm file.
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to open the hw design at D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA given D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA absoulate path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform::DSA directory D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Platform Path D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/hw/Design_StepMotor_Buzz_FND_wrapper.xsa
+TRACE::2022-11-04.08:52:08::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Trying to set the existing hwdb with name Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Opened existing hwdb Design_StepMotor_Intr_wrapper_0
+TRACE::2022-11-04.08:52:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-11-04.08:52:08::SCWMssOS::Checking the sw design at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-11-04.08:52:08::SCWMssOS::DEBUG:  swdes dump  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-11-04.08:52:08::SCWMssOS::Sw design exists and opened at  D:/project/fpga/StepMotor_Buzz_FND_vitis/Design_StepMotor_Buzz_FND_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss

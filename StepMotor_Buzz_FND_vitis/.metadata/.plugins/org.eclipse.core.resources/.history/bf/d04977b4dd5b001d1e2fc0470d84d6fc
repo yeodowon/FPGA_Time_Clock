@@ -1,0 +1,36 @@
+/*
+ * Switch.c
+ *
+ *  Created on: 2022. 11. 4.
+ *      Author: kccistc
+ */
+
+#include "Switch.h"
+
+#define ModeSW		0
+#define OnOffSW		1
+
+#define CHANNEL_1	1
+
+XGpio	GPIO_SW;
+
+void Switch_init()
+{
+    //SW init
+    XGpio_Initialize(&GPIO_SW, XPAR_AXI_GPIO_2_DEVICE_ID);
+    XGpio_SetDataDirection(&GPIO_SW, CHANNEL_1, 0x03);
+}
+
+void Switch_Select()
+{
+	if(XGpio_DiscreteRead(&GPIO_SW, CHANNEL_1) & (1 << ModeSW))
+	{
+
+	}
+	if(XGpio_DiscreteRead(&GPIO_SW, CHANNEL_1) & (1 << OnOffSW))
+	{
+
+	}
+}
+
+

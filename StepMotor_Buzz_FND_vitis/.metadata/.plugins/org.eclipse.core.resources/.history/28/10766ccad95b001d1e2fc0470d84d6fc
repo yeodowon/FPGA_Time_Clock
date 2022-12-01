@@ -1,0 +1,13 @@
+/*
+ * Switch.h
+ *
+ *  Created on: 2022. 11. 4.
+ *      Author: kccistc
+ */
+
+#ifndef SRC_SWITCH_SWITCH_H_
+#define SRC_SWITCH_SWITCH_H_
+
+#include "xgpio.h"
+
+#endif /* SRC_SWITCH_SWITCH_H_ */

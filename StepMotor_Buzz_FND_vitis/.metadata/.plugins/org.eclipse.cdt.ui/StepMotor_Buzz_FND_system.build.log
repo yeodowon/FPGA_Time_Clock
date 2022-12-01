@@ -1,0 +1,6 @@
+09:01:16 **** Build of configuration Debug for project StepMotor_Buzz_FND_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+09:01:17 Build Finished (took 233ms)
+

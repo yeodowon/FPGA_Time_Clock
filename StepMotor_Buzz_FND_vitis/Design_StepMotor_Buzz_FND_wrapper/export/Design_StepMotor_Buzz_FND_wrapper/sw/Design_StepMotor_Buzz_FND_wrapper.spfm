@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdx:platform sdx:vendor="xilinx.com"
+              sdx:library="sdx"
+              sdx:name="Design_StepMotor_Buzz_FND_wrapper"
+              sdx:version="1.0"
+              sdx:schemaVersion="1.0"
+              xmlns:sdx="http://www.xilinx.com/sdx">
+    <sdx:description>
+Design_StepMotor_Buzz_FND_wrapper
+    </sdx:description>
+    <sdx:systemConfigurations sdx:defaultConfiguration="Design_StepMotor_Buzz_FND_wrapper">
+        <sdx:configuration sdx:name="Design_StepMotor_Buzz_FND_wrapper"
+                           sdx:displayName="Design_StepMotor_Buzz_FND_wrapper"
+                           sdx:defaultProcessorGroup="domain_microblaze_0"
+                           sdx:runtimes="cpp">
+            <sdx:description>Design_StepMotor_Buzz_FND_wrapper</sdx:description>
+            <sdx:bootImages sdx:default="standard">
+                <sdx:image sdx:name="standard"
+                            sdx:bif="Design_StepMotor_Buzz_FND_wrapper/boot/Design_StepMotor_Buzz_FND_wrapper.bif"
+                            sdx:readme="Design_StepMotor_Buzz_FND_wrapper/boot/generic.readme"
+                            />
+            </sdx:bootImages>
+            <sdx:processorGroup sdx:name="domain_microblaze_0"
+                                sdx:displayName="domain_microblaze_0"
+                                sdx:cpuType="microblaze_0"
+                                sdx:cpuInstance="microblaze_0">
+                <sdx:os sdx:name="standalone"
+                        sdx:displayName="standalone"
+                        sdx:bspLibraryPaths="Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bsplib/lib"
+                        sdx:bspIncludePaths="Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/bspinclude/include"
+                        sdx:bspConfig="Design_StepMotor_Buzz_FND_wrapper/domain_microblaze_0/system.mss"
+                />
+            </sdx:processorGroup>
+        </sdx:configuration>
+    </sdx:systemConfigurations>
+</sdx:platform>
