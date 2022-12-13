@@ -1,5 +1,14 @@
 # FPGA_Time_Clock
 
+
+완성된 외관
+![image](https://user-images.githubusercontent.com/113006249/207233550-59026973-66ab-473c-9af7-551d222767bf.png)
+
+스위치 및 버튼 할당
+![image](https://user-images.githubusercontent.com/113006249/207233600-814a72c2-c942-4da7-ab17-e9c54c3744ef.png)
+
+
+
 FND enable
 
 
